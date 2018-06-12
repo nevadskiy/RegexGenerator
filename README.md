@@ -1,6 +1,6 @@
 # RegexGenerator
 
-####Usage example:  
+#### Usage example:  
 ```
 $regex = Expression::make()
   ->find('http')
